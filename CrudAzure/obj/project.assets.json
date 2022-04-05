@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\aldan\\OneDrive\\Escritorio\\Gestion de Infraestructuras TIC\\Segundo Periodo\\Programacion Orientada a Objetos\\CRUD\\azure\\CrudAzure\\CrudAzure.csproj",
+      "projectUniqueName": "C:\\Users\\aldan\\OneDrive\\Escritorio\\Gestion de Infraestructuras TIC\\Segundo Periodo\\Programacion Orientada a Objetos\\CRUD\\azure\\WebCrudAzure\\CrudAzure\\CrudAzure.csproj",
       "projectName": "CrudAzure",
-      "projectPath": "C:\\Users\\aldan\\OneDrive\\Escritorio\\Gestion de Infraestructuras TIC\\Segundo Periodo\\Programacion Orientada a Objetos\\CRUD\\azure\\CrudAzure\\CrudAzure.csproj",
+      "projectPath": "C:\\Users\\aldan\\OneDrive\\Escritorio\\Gestion de Infraestructuras TIC\\Segundo Periodo\\Programacion Orientada a Objetos\\CRUD\\azure\\WebCrudAzure\\CrudAzure\\CrudAzure.csproj",
       "packagesPath": "C:\\Users\\aldan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\aldan\\OneDrive\\Escritorio\\Gestion de Infraestructuras TIC\\Segundo Periodo\\Programacion Orientada a Objetos\\CRUD\\azure\\CrudAzure\\obj\\",
+      "outputPath": "C:\\Users\\aldan\\OneDrive\\Escritorio\\Gestion de Infraestructuras TIC\\Segundo Periodo\\Programacion Orientada a Objetos\\CRUD\\azure\\WebCrudAzure\\CrudAzure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\aldan\\AppData\\Roaming\\NuGet\\NuGet.Config",
